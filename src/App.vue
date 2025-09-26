@@ -3,6 +3,7 @@ import NavBar from './components/NavBar.vue'
 import Carrossel from './components/FlexBox.vue'
 import Titulo from './components/Titulo.vue'
 import FlexBox from './components/FlexBox.vue';
+import ContainerIcone from './components/ContainerIcone.vue';
 
 </script>
 
@@ -11,7 +12,7 @@ import FlexBox from './components/FlexBox.vue';
     <router-view />
     <NavBar />
     <FlexBox />
-    <Titulo />
+    <ContainerIcone />
 
 </template>
 
