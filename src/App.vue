@@ -1,7 +1,8 @@
 <script setup lang="ts">
 import NavBar from './components/NavBar.vue'
-import Carrossel from './components/Carrossel.vue'
+import Carrossel from './components/FlexBox.vue'
 import Titulo from './components/Titulo.vue'
+import FlexBox from './components/FlexBox.vue';
 
 </script>
 
@@ -9,7 +10,7 @@ import Titulo from './components/Titulo.vue'
      
     <router-view />
     <NavBar />
-    <Carrossel />
+    <FlexBox />
     <Titulo />
 
 </template>

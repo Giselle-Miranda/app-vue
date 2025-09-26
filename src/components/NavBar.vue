@@ -21,6 +21,6 @@
 
 <style scoped>
 #nav{
-  background-color: #FCDE9C;
+  background-color: #DF693E;
 }
 </style>
